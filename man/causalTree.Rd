@@ -2,7 +2,7 @@
 \alias{causalTree}
 %\alias{causalTreecallback}
 \title{
-  Causal Effect Regression and Estimation Trees
+  Causal Effect Regression and Estimation Trees - mixed effect by Yang
 }
 \description{
   Fit a \code{causalTree} model to get an \code{rpart} object
